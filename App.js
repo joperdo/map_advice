@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 26,
     fontWeight: 'bold',
-    color: 'rgb(105, 0, 167)',
+    color: '#652CB3',
     marginBottom: 30,
     textAlign: 'center',
   },
@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
   },
   adviceDataContainer: {
     padding: 20,
-    backgroundColor: 'rgb(186, 112, 255)',
+    backgroundColor: '#652CB3',
     borderRadius: 10,
     marginBottom: 30,
     width: '100%',
@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
   },
   locationContainer: {
     padding: 20,
-    backgroundColor: 'rgb(186, 112, 255)',
+    backgroundColor: '#652CB3',
     borderRadius: 10,
     width: '100%',
     alignItems: 'center',
